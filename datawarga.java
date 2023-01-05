@@ -58,7 +58,7 @@ public class datawarga {
         
         System.out.println(); 
         System.out.println("||NIK                               ||  23100879");
-        System.out.println("||Total Pembyaran Iuran Warga       || Rp." +total+"");
+        System.out.println("||Total Pembayaran Iuran Warga       || Rp." +total+"");
         System.out.println("Terimakasih Hardiyanto Iuran sudah di Bayarkan"); 
         
         
